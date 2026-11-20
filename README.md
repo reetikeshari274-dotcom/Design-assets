@@ -1,7 +1,25 @@
-# Design Assets
+<div align="center">
 
-Curated graphic designs, banners, and visual assets created with Canva.
+# 🎨 Design Assets
 
-## Featured Design: Bird Design
+![Canva](https://shields.io)
+![Assets](https://shields.io)
 
-![Bird Design](bird-design.png)
+*Curated graphic designs, banners, and visual assets created with Canva.*
+
+</div>
+
+---
+
+## 🖼️ Design Gallery
+
+| Preview | Details |
+| :---: | :--- |
+| <img src="bird-design.png" width="350" alt="Bird Design"> | **Bird Design**<br>• **Tool:** Canva<br>• **Format:** PNG<br>• **Use Case:** Illustration / Visual Asset |
+
+---
+
+## 📁 Folder Structure (Upcoming)
+* `banners/` – GitHub & social media headers
+* `posters/` – Event & hackathon graphics
+* `icons/` – Logos and UI elements
